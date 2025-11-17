@@ -44,7 +44,7 @@ const Hero = () => {
               className="bg-primary text-primary-foreground hover:bg-primary/90"
               asChild
             >
-              <a href="/K_HARIHARAN_Jr_SWE_@cronLabs_resume.pdf" download>
+              <a href="https://drive.google.com/file/d/12ErRxXe29PBNBMjKQxUAQOhk67Ote_OO/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                 <Download className="mr-2 h-5 w-5" />
                 Download Resume
               </a>
